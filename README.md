@@ -1,2 +1,0 @@
-# TricksTantra
-TricksTantra Scripts Repository
