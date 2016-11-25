@@ -5,40 +5,27 @@
 
                                        ***Before </head>***
 
-<link href='https://googledrive.com/host/0B_1mqJd2tC8qeDVzSnBJMDh5WUk' rel='stylesheet'/>
-
-<script src='https://googledrive.com/host/0B_1mqJd2tC8qbGdmQzRZVGk3bXM' type='text/javascript'/>
-
+<link href='https://www.dropbox.com/s/6qd3m0lkch2oirl/MyBloggerGuides-Social-Locker.css?dl=1' rel='stylesheet' type='text/css'/>
+<script src='https://www.dropbox.com/s/rtbr4bakvd7xjuy/MyBloggerGuides-Social-Locker.js?dl=1' type='text/javascript'/>
 <script type='text/javascript'>
 //<![CDATA[
-jQuery(document).ready(function ($) {
-$(‘#default-usage .to-lock').sociallocker({
-
-buttons: {order:["facebook-like","twitter-tweet","google-plus"]},
-
-twitter: {url:"http://twitter.com/scorpionruler"},
-facebook: {url:"https://www.facebook.com/scorpionruler"},
-google: {url:"https://plus.google.com/+MohammadSharfuddin"},
-
-text: {
-header: "Like us To Unlock This Content",
-message: "This content is locked. Like us on Facebook, Twitter or Google plus to unlock it."
-},
-
-locker: {close: false, timer: 0,},
-
-theme: "dandyish"
-
-});
+$(function(){
+  $('.socialLocker .to-lock').sociallocker({
+    buttons: {order:["facebook-like","twitter-tweet","google-plus"]},
+    twitter: {url:"http://twitter.com/scorpionruler"},
+    facebook: {url:"https://www.facebook.com/OfficialTheUntoldDiary/"},
+    google: {url:"https://plus.google.com/+MohammadSharfuddin"},
+    text: {
+      header: "Like us To Unlock This Content",
+      message: "This content is locked. Like us on Twitter, Facebook or Google plus to unlock it."
+    },
+    locker: {close: false, timer: 0,},
+    theme: "secrets"
+  });
 });
 //]]>
 </script>
 
-
                                         *** Locked Content ***
 
-<article id="default-usage">
-<div class="to-lock" style="display:none;">
-– ADD YOUR CONTENT HERE –
-</div>
-</article>
+<article class="socialLocker">  <div class="to-lock" style="display:none;">    — ADD YOUR CONTENT HERE —   </div> </article>
