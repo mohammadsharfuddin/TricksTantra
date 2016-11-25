@@ -5,15 +5,15 @@
 
                                        ***Before </head>***
 
-<link href='https://www.dropbox.com/s/6qd3m0lkch2oirl/MyBloggerGuides-Social-Locker.css?dl=1' rel='stylesheet' type='text/css'/>
-<script src='https://www.dropbox.com/s/rtbr4bakvd7xjuy/MyBloggerGuides-Social-Locker.js?dl=1' type='text/javascript'/>
+<link href='https://raw.githubusercontent.com/mohammadsharfuddin/TricksTantra/master/Scripts/TricksTantraSCL.css' rel='stylesheet' type='text/css'/>
+<script src='https://raw.githubusercontent.com/mohammadsharfuddin/TricksTantra/master/Scripts/TricksTantraSCL.js' type='text/javascript'/>
 <script type='text/javascript'>
 //<![CDATA[
 $(function(){
   $('.socialLocker .to-lock').sociallocker({
     buttons: {order:["facebook-like","twitter-tweet","google-plus"]},
     twitter: {url:"http://twitter.com/scorpionruler"},
-    facebook: {url:"https://www.facebook.com/OfficialTheUntoldDiary/"},
+    facebook: {url:"https://www.facebook.com/trickstantra/"},
     google: {url:"https://plus.google.com/+MohammadSharfuddin"},
     text: {
       header: "Like us To Unlock This Content",
