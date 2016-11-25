@@ -5,8 +5,8 @@
 
                                        ***Before </head>***
 
-<link href='https://raw.githubusercontent.com/mohammadsharfuddin/TricksTantra/master/Scripts/TricksTantraSCL.css' rel='stylesheet' type='text/css'/>
-<script src='https://raw.githubusercontent.com/mohammadsharfuddin/TricksTantra/master/Scripts/TricksTantraSCL.js' type='text/javascript'/>
+<link href='https://www.dropbox.com/s/j8u0px1qszixxwl/TricksTantraSCL.css?dl=1' rel='stylesheet' type='text/css'/>
+<script src='https://www.dropbox.com/s/tskmt978ku8qb7g/TricksTantraSCL.js?dl=1' type='text/javascript'/>
 <script type='text/javascript'>
 //<![CDATA[
 $(function(){
