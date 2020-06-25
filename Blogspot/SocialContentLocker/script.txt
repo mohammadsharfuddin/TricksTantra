@@ -2,7 +2,7 @@
 
 <script src='http://code.jquery.com/jquery-1.10.2.min.js' type='text/javascript'/>
 
-
+/* Updated 25062020 */
                                        ***Before </head>***
 
 <link href='https://www.dropbox.com/s/j8u0px1qszixxwl/TricksTantraSCL.css?dl=1' rel='stylesheet' type='text/css'/>
